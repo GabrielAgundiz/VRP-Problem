@@ -30,36 +30,36 @@ Centro de distribución: Coca Cola Universidad:
 
 Camión 1:
 Recorrido > Pollo matón Girasoles > Pollo matón Escobedo > Pollo matón Concordia > Pollo matón Montes Berneses > Coca Cola Universidad
-Demanda total: 2740 kg
-Distancia de la ruta: 35.9 km
+[Demanda total: 2740 kg,
+Distancia de la ruta: 35.9 km]
 
 Camión 2:
 Recorrido > Pollo matón Rodrigo Gómez > Pollo matón San Nicolás > Pollo matón Santo Domingo > Pollo matón Centro > Pollo matón Centrika > Coca Cola Universidad
-Demanda total: 2930 kg
-Distancia de la ruta: 28.5 km
+[Demanda total: 2930 kg,
+Distancia de la ruta: 28.5 km]
 
 Camión 3:
 Recorrido > Pollo matón Las Puentes > Pollo matón Cordillera de los Andes > Coca Cola Universidad
-Demanda total: 995 kg
-Distancia de la ruta: 17.2 km
+[Demanda total: 995 kg,
+Distancia de la ruta: 17.2 km]
 
 Centro de distribución: Coca Cola Lincoln:
 
 Recorrido > Pollo Matón Lincoln > Pollo Matón Solidaridad > Pollo Matón Aztlan > Pollo Matón Cumbres
-Demanda total > 2340 kg
-Distancia total de la ruta > 30.29 km
+[Demanda total > 2340 kg,
+Distancia total de la ruta > 30.29 km]
 
 Centro de distribución: Coca Cola Insurgentes:
 
 Recorrido > Pollo matón Santa Catarina > Pollo matón Lázaro Cárdenas > Pollo matón Simón Bolívar 
-Demanda total: 2070 kg
-Distancia de la ruta: 44.4 km
+[Demanda total: 2070 kg,
+Distancia de la ruta: 44.4 km]
 
 
 Centro de distribución: Coca Cola Guadalupe:
 
 Recorrido > Pollo matón Revolución > Pollo matón Lindavista
-Demanda total: 1696 kg
-Distancia de la ruta: 19.9 km
+[Demanda total: 1696 kg,
+Distancia de la ruta: 19.9 km]
 
 Distancia total recorrida: 176.20 km
