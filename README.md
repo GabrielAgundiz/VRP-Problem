@@ -26,32 +26,38 @@ Se utiliza la búsqueda tabú con best improvement para optimizar las rutas inic
 
 Se tomaron en cuenta cuatro centros de distribución de Coca Cola: Lincoln, Universidad, Insurgentes y Guadalupe. Tras ejecutar el algoritmo con diversos parámetros e iteraciones, se obtuvieron los siguientes resultados:
 
-Centro de distribución: Coca Cola Universidad
+Centro de distribución: Coca Cola Universidad:
+
 Camión 1:
 Recorrido > Pollo matón Girasoles > Pollo matón Escobedo > Pollo matón Concordia > Pollo matón Montes Berneses > Coca Cola Universidad
 Demanda total: 2740 kg
 Distancia de la ruta: 35.9 km
+
 Camión 2:
 Recorrido > Pollo matón Rodrigo Gómez > Pollo matón San Nicolás > Pollo matón Santo Domingo > Pollo matón Centro > Pollo matón Centrika > Coca Cola Universidad
 Demanda total: 2930 kg
 Distancia de la ruta: 28.5 km
+
 Camión 3:
 Recorrido > Pollo matón Las Puentes > Pollo matón Cordillera de los Andes > Coca Cola Universidad
 Demanda total: 995 kg
 Distancia de la ruta: 17.2 km
 
 Centro de distribución: Coca Cola Lincoln:
+
 Recorrido > Pollo Matón Lincoln > Pollo Matón Solidaridad > Pollo Matón Aztlan > Pollo Matón Cumbres
 Demanda total > 2340 kg
 Distancia total de la ruta > 30.29 km
 
-Centro de distribución: Coca Cola Insurgentes
+Centro de distribución: Coca Cola Insurgentes:
+
 Recorrido > Pollo matón Santa Catarina > Pollo matón Lázaro Cárdenas > Pollo matón Simón Bolívar 
 Demanda total: 2070 kg
 Distancia de la ruta: 44.4 km
 
 
-Centro de distribución: Coca Cola Guadalupe
+Centro de distribución: Coca Cola Guadalupe:
+
 Recorrido > Pollo matón Revolución > Pollo matón Lindavista
 Demanda total: 1696 kg
 Distancia de la ruta: 19.9 km
